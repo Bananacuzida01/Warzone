@@ -12,7 +12,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="data:image/jpeg;base64,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" alt="avatar do Pablo" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Pablo</p>
         <h1>Eu sou Jogador Profissional de Warzone </h1>
@@ -32,32 +32,25 @@
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="https://ultimaficha.com.br/wp-content/uploads/2025/03/Call-of-Duty-Warzone-Verdansk.jpg" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
-                        <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
-                        <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
-                            favoritos, incluindo informações sobre os autores, datas de publicação e links para compra
-                            na Amazon. A página é estilizada com CSS para uma visualização agradável e usa fontes
-                            externas do Google Fonts.
+                        <h5 class="card-title">Call of Duty: Warzone Pacific - 2021 Verdansk Invitational</h5>
+                        <p class="card-text">Ao vencer o Verdansk Invitational, sua vitória teria atraído atenção global. Isso não só teria solidificado sua posição como um dos melhores jogadores de Warzone, mas também teria colocado seu nome entre os gigantes da comunidade, como Aydan, Symfuhny, e outros jogadores conhecidos.
                         </p>
-                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Veja
-                            o projeto</button>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">
+                            
                     </div>
                 </div>
             </div>
             <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="https://preview.redd.it/b6uyqwjxm21e1.jpeg?auto=webp&s=672e2b00de2ac9f01a757dc464001877e9702377" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
-                        <h5 class="card-title">Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência
-                            Artificial</h5>
-                        <p class="card-text">Este projeto é um jogo interativo baseado em navegador que explora o
-                            impacto e as implicações da Inteligência Artificial (IA) na sociedade, permitindo que as
-                            pessoas jogadoras façam escolhas que influenciam o desenrolar de uma narrativa sobre o
-                            futuro da IA.</p>
-                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal2">Veja
-                            o projeto</button>
+                        <h5 class="card-title">Warzone Friday Night - 2020</h5>
+                        <p class="card-text">Ao ser destacado em uma competição com esses jogadores famosos, você teria conquistado um grande número de novos seguidores, aumentando sua visibilidade como jogador e streamer. Isso seria uma excelente oportunidade para crescer no cenário competitivo e também aumentar sua audiência em outras plataformas.</p>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal2">
+                            
                     </div>
                 </div>
             </div>
@@ -65,16 +58,16 @@
             <!-- Projeto 3 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2022/06/Call-of-Duty-Warzone-2.jpg" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
-                        <h5 class="card-title">Explorando o Universo: Uma Aventura Interativa em Astronomia com Scratch
+                        <h5 class="card-title"> Call of Duty League (CDL) - Warzone Tournament
                         </h5>
-                        <p class="card-text">EEste projeto Scratch cria uma experiência interativa educativa sobre
-                            astronomia, permitindo aos usuários explorar informações sobre constelações, eclipses, e a
-                            forma da Terra através de cenários dinâmicos e diálogos informativos.
+                        <p class="card-text">Vencer o CDL Warzone Tournament colocaria você no topo da elite do Call of Duty. A CDL é a liga oficial de Call of Duty, com os melhores times do mundo competindo em diversas vertentes do jogo. Uma vitória no torneio de Warzone dentro dessa liga não apenas consolidaria sua posição como um dos melhores do mundo em Warzone, mas também colocaria seu nome ao lado dos gigantes da franquia Call of Duty.
+
+
                         </p>
-                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal3">Veja
-                            o projeto</button>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal3">
+                        
                     </div>
                 </div>
             </div>
@@ -86,35 +79,16 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
+                    <h5 class="modal-title"></h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <p>O projeto é uma página web criada com HTML e CSS, destinada a exibir uma coleção pessoal de
-                        livros favoritos. O objetivo é criar um ambiente virtual onde seja possível compartilhar
-                        seus livros preferidos, fornecendo uma descrição breve de cada um, incluindo o autor, o ano
-                        de publicação e uma opção de compra.</p>
-                    <p>A estrutura do site é baseada em HTML, que define a semântica e o layout do conteúdo,
-                        enquanto o CSS é usado para estilizar a página visualmente, incluindo cores, tipografia e a
-                        disposição dos elementos.</p>
-                    <p>O HTML organiza o conteúdo em um cabeçalho com o título do site, seguido por uma divisão
-                        principal (.container) que apresenta o propósito do site e a coleção de livros em uma seção
-                        flexível (.livros). Cada livro é destacado em seu próprio contêiner (.livro), mostrando uma
-                        imagem da capa, detalhes do livro e um link de compra. O design responsivo é garantido pelo
-                        uso de uma meta tag viewport e um layout flexível que se adapta a diferentes tamanhos de
-                        tela.</p>
-                    <p>O CSS personaliza o visual do site, usando variáveis para cores, estilizando o texto com uma
-                        fonte importada do Google Fonts e aplicando um esquema de cores suaves e botões interativos.
-                        O uso de HTML e CSS é importante pois assim é possível criar um site acessível e
-                        esteticamente agradável sem a necessidade de scripts complexos, com foco na usabilidade e na
-                        experiência da pessoa usuária. A escolha da tipografia e do esquema de cores contribui para
-                        a atmosfera acolhedora do site, incentivando a exploração da coleção de livros.</p>
-                    <img src="img/projeto-1.png" class="img-fluid w-100"
-                        alt="Imagem representativa do projeto de uma biblioteca online">
+                    <p></p>
+                  
                 </div>
                 <div class="modal-footer">
-                    <a href="https://femascheti.github.io/minhas-leituras/">Ver projeto ao vivo</a>
-                    <a href="https://github.com/femascheti/minhas-leituras">Ver código do projeto</a>
+                    <a href="https://femascheti.github.io/minhas-leituras/"></a>
+                    <a href="https://github.com/femascheti/minhas-leituras"></a>
                 </div>
             </div>
         </div>
@@ -124,44 +98,19 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
+                    <h5 class="modal-title"></h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <p>O projeto consiste em uma aplicação web interativa, desenvolvida com HTML, CSS, e JavaScript, que
-                        simula uma experiência narrativa centrada no tema da Inteligência Artificial. O objetivo é
-                        engajar os jogadores em um cenário fictício que aborda o avanço da IA e suas possíveis
-                        consequências para a humanidade, destacando a importância da reflexão ética sobre a tecnologia.
+                    <p>
                     </p>
-                    <p>O HTML estrutura o conteúdo da página, dividindo-o em seções como a tela inicial, caixa de
-                        perguntas, alternativas de resposta, e o resultado final baseado nas escolhas do jogador. O CSS
-                        é utilizado para estilizar a página, empregando um esquema de cores futurista e layout
-                        responsivo para melhorar a experiência do usuário. JavaScript é usado para adicionar
-                        interatividade ao jogo, manipulando o DOM para atualizar o conteúdo da página conforme as
-                        escolhas do jogador, e determinando o fluxo da narrativa através de uma série de perguntas e
-                        respostas.</p>
-                    <p>O HTML organiza o conteúdo em um cabeçalho com o título do site, seguido por uma divisão
-                        principal (.container) que apresenta o propósito do site e a coleção de livros em uma seção
-                        flexível (.livros). Cada livro é destacado em seu próprio contêiner (.livro), mostrando uma
-                        imagem da capa, detalhes do livro e um link de compra. O design responsivo é garantido pelo
-                        uso de uma meta tag viewport e um layout flexível que se adapta a diferentes tamanhos de
-                        tela.</p>
-                    <p>Os scripts JavaScript incluem módulos para gerar nomes aleatórios, definir as perguntas e as
-                        lógicas de jogo, como iniciar o jogo, apresentar perguntas e alternativas, processar as escolhas
-                        dos jogadores, e exibir o resultado final. Este design modular facilita a manutenção e a
-                        expansão futura do jogo. A importância das ferramentas utilizadas (HTML, CSS, JavaScript) reside
-                        na criação de uma experiência interativa que não apenas entretém, mas também educa os jogadores
-                        sobre a complexidade ética e social da IA, incentivando a reflexão crítica sobre o papel da
-                        tecnologia em nossas vidas.
-                    </p>
-                    <img src="img/projeto-2.png" class="img-fluid w-100"
-                        alt="Imagem representativa do projeto de uma biblioteca online">
+                    
                 </div>
                 <div class="modal-footer">
-                    <a href="https://femascheti.github.io/tecnicas-computacionais-refletindo-sobre-ia/">Ver projeto ao
-                        vivo</a>
-                    <a href="https://github.com/femascheti/tecnicas-computacionais-refletindo-sobre-ia">Ver código do
-                        projeto</a>
+                    <a href="https://femascheti.github.io/tecnicas-computacionais-refletindo-sobre-ia/">
+                        </a>
+                    <a href="https://github.com/femascheti/tecnicas-computacionais-refletindo-sobre-ia">
+                        </a>
                 </div>
             </div>
         </div>
@@ -172,44 +121,25 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
+                    <h5 class="modal-title"></h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <p>O projeto é uma aplicação educativa interativa focada em ensinar conceitos básicos de
-                        astronomia. Utiliza uma série de scripts associados a diferentes atores (sprites) e
-                        cenários para criar uma experiência de aprendizado envolvente. O objetivo é familiarizar
-                        os usuários com tópicos como as fases da Lua, eclipses, a visibilidade de diferentes
-                        constelações dependendo da localização geográfica na Terra, e a forma da Terra, através
-                        de interações e visualizações dinâmicas.</p>
-                    <p>Cada ator no projeto possui scripts que definem seu comportamento em resposta a eventos
-                        específicos, como o início do programa (quando a bandeira é clicada), cliques do
-                        usuário, ou mensagens recebidas. Estes eventos desencadeiam ações como mudanças de
-                        cenário, movimentos de atores, exibição ou ocultação de atores, e a apresentação de
-                        diálogos informativos. Por exemplo, ao clicar em determinados atores, os usuários podem
-                        "receber" uma prova, o que leva a uma mudança de cenário e a exibição de informações
-                        relevantes ou a visualização de uma constelação específica.</p>
-                    <p>A importância das ferramentas utilizadas, como os blocos de código visual do Scratch,
-                        reside na sua acessibilidade e na capacidade de engajar aprendizes de diferentes idades
-                        no pensamento computacional e na exploração de conceitos científicos de forma
-                        interativa. O uso de cenários, movimentos, e diálogos dinâmicos ajuda a criar uma
-                        experiência de aprendizado mais rica e memorável, encorajando os usuários a explorar e
-                        interagir com o conteúdo de maneira ativa, em vez de passivamente.</p>
-                    <img src="img/projeto-3.png" alt="Projeto 3" class="img-fluid w-100">
+                    <p></p>
+                    
                 </div>
                 <div class="modal-footer">
-                    <a href="https://scratch.mit.edu/projects/951732825/">Ver projeto ao vivo</a>
+                    <a href="https://scratch.mit.edu/projects/951732825/"></a>
                 </div>
             </div>
         </div>
     </div>
     <footer class="container py-5">
-        <h2>Entre em contato</h2>
+        <h2></h2>
         <div>
-            <i class="bi bi-github"></i>
-            <a href="https://github.com/femascheti">GitHub</a>
+
         </div>
-        <p class="my-5 text-center">© Copyright 2024. Produzido por Fernanda Mascheti</p>
+        <p class="my-5 text-center"></p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
